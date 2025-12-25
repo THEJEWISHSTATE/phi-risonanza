@@ -1,0 +1,14 @@
+{
+  "tipo": "extractive",
+  "replica_id": 12,
+  "phi_iniziale": 0.21219019181571117,
+  "phi_finale": 0.12464090050471047,
+  "tempo_collasso": 2.343134623030906,
+  "delta_phi": -0.0875492913110007,
+  "skewness_ampiezze": 0.8873873909243521,
+  "parametri": {
+    "N": 100,
+    "epsilon": 0.05,
+    "seed": 12042
+  }
+}

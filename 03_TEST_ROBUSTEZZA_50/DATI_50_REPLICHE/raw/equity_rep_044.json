@@ -1,0 +1,14 @@
+{
+  "tipo": "equity",
+  "replica_id": 44,
+  "phi_iniziale": 0.08675868716010882,
+  "phi_finale": 0.9913555865019412,
+  "tempo_collasso": 1.7133327810857437,
+  "delta_phi": 0.9045968993418324,
+  "skewness_ampiezze": 0.0,
+  "parametri": {
+    "N": 100,
+    "epsilon": 0.05,
+    "seed": 44042
+  }
+}

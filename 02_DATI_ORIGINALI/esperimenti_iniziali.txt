@@ -1,0 +1,8 @@
+ESPERIMENTI INIZIALI PHI-RISONANZA
+==================================
+
+Equity: PHI ~ 0.994 (stabile)
+Extractive: PHI ~ 0.278 (instabile)
+Delta PHI ~ 0.716
+Varianza: 221x maggiore in Extractive
+Tempo collasso: ~2.3s

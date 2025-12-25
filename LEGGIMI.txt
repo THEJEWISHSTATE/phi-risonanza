@@ -1,0 +1,10 @@
+PROGETTO PHI-RISONANZA - SISTEMI DINAMICI
+=========================================
+
+RISULTATI PRINCIPALI:
+- Equity: PHI = 0.9952 (molto stabile)
+- Extractive: PHI = 0.2502 (molto variabile)
+- Differenza: Delta PHI = 0.7450 (ENORME)
+- Varianza Extractive: 857x maggiore
+
+TUTTE LE 5 IPOTESI CONFERMATE!
