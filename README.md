@@ -138,7 +138,7 @@
 
 
 
-**👤 ANNDREA BERTOTTI\_Ricerca indipendente - THEJEWISHSTATE**
+**👤 ANDREA BERTOTTI\multiple AI_Ricerca indipendente - THEJEWISHSTATE**
 
 
 
